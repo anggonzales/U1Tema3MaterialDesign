@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">U1Tema3MaterialDesign</string>
+    <string name="drawer_open">abierto</string>
+    <string name="drawer_close">cerrando</string>
+</resources>
